@@ -6,7 +6,7 @@ An exploratory data analysis and prediction project on how daily social media us
 How are social media use, AI tool use, sleep, and physical activity associated with student mental and physical health scores?
 
 ## Dataset
-[AI & Social Media Impact: Student Health & Grades]([paste your Kaggle link here]), 16,000 student records with 10 columns.
+[AI & Social Media Impact: Student Health & Grades](https://www.kaggle.com/datasets/srisyra02/ai-and-social-media-impact-student-health-and-grades), 16,000 student records with 10 columns.
 
 **The dataset is synthetic.** Findings describe patterns in simulated data, not real students.
 
